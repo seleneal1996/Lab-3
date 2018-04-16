@@ -1,8 +1,11 @@
 # depslib dependency file v1.0
-1523841257 source:/home/selene/PROBLEM_SET3/problemset3_3/main.cpp
-	<iostream>
+1523843890 source:/home/selene/PROBLEM_SET3/problemset3_3/main.cpp
 	"geometry.h"
-
-1523841181 /home/selene/PROBLEM_SET3/problemset3_3/geometry.h
 	<iostream>
+
+1523846565 /home/selene/PROBLEM_SET3/problemset3_3/geometry.h
+	<iostream>
+
+1523846583 source:/home/selene/PROBLEM_SET3/problemset3_3/geometry.cpp
+	"geometry.h"
 

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1523843890 source:/home/selene/PROBLEM_SET3/problemset3_3/main.cpp
+	"geometry.h"
+	<iostream>
+
+1523843932 /home/selene/PROBLEM_SET3/problemset3_3/geometry.h
+	<iostream>
+
